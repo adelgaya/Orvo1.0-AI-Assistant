@@ -5,7 +5,7 @@
 
 This project is a Python-based chatbot designed to interact with users in a simple yet effective way. Unlike ordinary bots that rely solely on pre-written responses, this chatbot combines multiple features to make conversations more natural and intelligent.
 
-<h3>**First,**</h3> it uses an internal dictionary of questions and answers to respond quickly to general inquiries. This ensures that common questions are answered instantly without the need to connect to external resources.
+<span style="font-size:20px; font-weight:bold;">first</span> it uses an internal dictionary of questions and answers to respond quickly to general inquiries. This ensures that common questions are answered instantly without the need to connect to external resources.
 
 **Second,** the chatbot is capable of fetching definitions from the internet. When a user asks for the meaning of a concept, the bot searches online and provides a clear definition, making it a useful tool for learning and quick reference.
 
