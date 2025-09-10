@@ -23,14 +23,14 @@ In short, this Python chatbot is a multi-capable assistant that combines a built
 
 ## Examples of conversations from the chatbot:
 
-🤖: Hello! Type anything to start our chat. ^_^
-User: How are u
+🤖: Hello! Type anything to start our chat. ^_^  
+User: How are u  
 🤖: I'm doing well, thanks for asking! 
 
-User: what u can do
-🤖: I can answer FAQs, give advices, facts, definitions, and just be a good listener!
-User: what the date today
-🤖: Today is Wednesday, September 10, 2025 :)
+User: what u can do  
+🤖: I can answer FAQs, give advices, facts, definitions, and just be a good listener!     
+User: what the date today    
+🤖: Today is Wednesday, September 10, 2025 :)    
 
 User: Give me a joke
 🤖: What kind of shoes do ninjas wear? Sneakers!
