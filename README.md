@@ -56,6 +56,6 @@ Messi has scored more than 870 senior career goals and has provided more than 38
 🤖: Just doing my job.      
 
 ## License
-This project is protected by copyright. 
+This project is protected by copyright.   
 © 2025 Adel Gaya. All rights reserved.
 
